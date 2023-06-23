@@ -1,6 +1,6 @@
 /** @jsxImportSource ai-jsx */
 import { toStreamResponse } from 'ai-jsx/stream'
-import { ChatCompletion, UserMessage, ConversationHistory, SystemMessage } from 'ai-jsx/core/completion'
+import { ChatCompletion, ConversationHistory, SystemMessage } from 'ai-jsx/core/completion'
 
 export const runtime = 'edge'
 export async function POST(req: Request) {
