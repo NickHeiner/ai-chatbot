@@ -45,7 +45,7 @@ dependencies:
     specifier: ^2.1.6
     version: 2.1.6(react@18.2.0)(svelte@3.59.2)(vue@3.3.4)
   ai-jsx:
-    specifier: ^0.5.3
+    specifier: file:../ai-jsx/packages/ai-jsx
     version: 0.5.3(@types/react@18.2.6)(react@18.2.0)
   class-variance-authority:
     specifier: ^0.4.0
